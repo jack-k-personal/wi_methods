@@ -50,7 +50,7 @@ pip3 install numpy pandas scipy
 - `tar xvzf gurobi9.1.2_linux64.tar.gz`
 - Add the following lines to your ~/.bashrc file, e.g., via `vim ~/.bashrc`
 ```
-export GUROBI_HOME="/root/tools/gurobi912/linux64"
+export GUROBI_HOME="~/tools/gurobi912/linux64"
 export PATH="${PATH}:${GUROBI_HOME}/bin"
 export LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:${GUROBI_HOME}/lib"
 ``` 
