@@ -1,5 +1,7 @@
 # Instructions
 
+Step 1: `mkdir indexes`
+
 To verify that the BLP is working, compared to binary search run:
 
 ```
